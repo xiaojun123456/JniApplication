@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             mRecordButton.setImageResource(R.drawable.btn_video);
             mUsbCamera.stopVideoRecord(false);
             int k = 0;
+            int j = k;
         }
     }
 
